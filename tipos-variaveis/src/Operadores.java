@@ -2,7 +2,7 @@ public class Operadores {
    public static void main(String[] args) {
     String nomeUm = "Rodrigo";
     String nomeDois = "Rodrigo";
-    System.out.println(nomeUm.equals(nomeDois);
+    System.out.println(nomeUm == nomeDois);
     
     
     
